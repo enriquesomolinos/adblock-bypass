@@ -1,0 +1,12 @@
+[submodule "navigator"]
+	path = navigator
+	url = https://github.com/enriquesomolinos/adblock-bypass.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/enriquesomolinos/adblock-bypass.git
+[submodule "administration"]
+	path = administration
+	url = https://github.com/enriquesomolinos/adblock-bypass.git
+[submodule "proxy"]
+	path = proxy
+	url = https://github.com/enriquesomolinos/adblock-bypass.git
