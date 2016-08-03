@@ -1,0 +1,3 @@
+[submodule "navigator"]
+    path = include/foo
+    url = git://enriquesomolinos/adblock-bypass-navigator.git
